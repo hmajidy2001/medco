@@ -1,0 +1,399 @@
+/* Get parent CSS */
+@import url('orange.css');
+@import url('dark-style.css');
+
+/* Standard Styles */
+a {
+	color:#d05e0b;
+}
+a:visited {
+	color: #d05e0b;
+}
+
+a.dbx-toggle, a.dbx-toggle:visited {
+	background-image:url(images/exp-coll-orange.png);
+	background-repeat:no-repeat;
+}
+
+.scheme a.dbx-toggle, .scheme a.dbx-toggle:visited {
+	background-image:url(images/exp-coll-white.png);
+	background-repeat:no-repeat;
+}
+
+* html a.dbx-toggle, * html a.dbx-toggle:visited {
+	background-image:url(images/exp-coll-orange.gif);
+	background-repeat:no-repeat;
+}
+
+* html .scheme a.dbx-toggle, * html .scheme a.dbx-toggle:visited {
+	background-image:url(images/exp-coll-white.gif);
+	background-repeat:no-repeat;
+}
+
+.suf-widget h3.scheme {
+	background: url(images/bg-orange.png) repeat-x top left;
+}
+
+/* Blog title */
+h1.blogtitle a:hover {
+	color: #d05e0b;
+}
+
+/* search form */
+.searchform input[type="submit"].searchsubmit { 
+	background: url(images/search-button-orange.png) no-repeat 0 0;
+}
+
+/* main menu */
+#nav .current_page_item a, #nav .current_page_item a:hover, #nav li a:active {
+	background: #f6ac3d url(images/bg-orange.png) repeat-x top left;
+	color: #fff;
+}
+
+#nav li a:hover {
+	color: #fff;
+	background: #f6ac3d url(images/bg-orange.png) repeat-x top left;
+}
+
+#nav li a:active {
+	color: #fff;
+	background: #f6ac3d url(images/bg-orange.png) repeat-x top left;
+}
+
+/* Styling for drop-down lists */
+#nav ul ul li a:hover {
+	color: #fff;
+}
+
+/* style the links for the top level */
+#nav a.highlighted,
+#nav a:active {
+	color: #fff;
+	background: #f6ac3d url(images/bg-orange.png) repeat-x top left;
+}
+
+/* style the second level hover */
+#nav ul ul a.drop:hover {
+	background: #f6ac3d url(images/bg-orange.png) repeat-x top left;
+	color: #fff;
+}
+
+#nav ul ul :hover > a.drop {
+	color: #fff;
+	background: #f6ac3d url(images/bg-orange.png) repeat-x top left;
+}
+
+/* style the third level hover */
+#nav ul ul ul a:hover {
+	background: #f6ac3d url(images/bg-orange.png) repeat-x top left;
+	color: #fff;
+}
+
+/* style the top level hover */
+#nav a:hover, 
+#nav ul ul a:hover {
+	color: #fff;
+	background: #f6ac3d url(images/bg-orange.png) repeat-x top left;
+}
+
+#nav :hover > a, 
+#nav ul ul :hover > a {
+	color: #fff;
+	background: #f6ac3d url(images/bg-orange.png) repeat-x top left;
+}
+
+/* sub menu */
+#subnav .current_page_item a,
+#subnav .current_page_item a:visited,
+#subnav .current_page_parent a,
+#subnav .current_page_parent a:visited {
+	color: #d05e0b;
+}
+
+#subnav li a:hover {
+	color: #d05e0b;
+}
+
+/* Level 3 */
+#l3nav .current_page_item a, #l3nav .current_page_item a:visited, 
+#l4nav .current_page_item a, #l4nav .current_page_item a:visited, 
+#l5nav .current_page_item a, #l5nav .current_page_item a:visited, 
+#l6nav .current_page_item a, #l6nav .current_page_item a:visited, 
+#l7nav .current_page_item a, #l7nav .current_page_item a:visited, 
+#l8nav .current_page_item a, #l8nav .current_page_item a:visited {
+	color: #d05e0b;
+}
+
+#l3nav li a:hover, 
+#l4nav li a:hover, 
+#l5nav li a:hover, 
+#l6nav li a:hover, 
+#l7nav li a:hover, 
+#l8nav li a:hover {
+	color: #d05e0b;
+}
+
+/* content */
+.post .date {
+	background: url(images/calorange.png) no-repeat;
+	color: #fff;
+}
+
+.post .date span {
+	color: #fff;
+}
+.post .date span.year {
+	color: #fff;
+}
+
+.postdata a:hover {
+	color: #d05e0b;
+}
+
+/* post title */
+h2.posttitle a:hover {
+	color: #d05e0b;
+}
+.tags a:hover {
+	color: #d05e0b;
+}
+
+/* next & previous page navigation */
+.page-nav a:hover {
+	color: #d05e0b;
+}
+
+/* next & previous post navigation */
+.post-nav a:hover {
+	color: #d05e0b;
+}
+
+.suf-page-nav a.page-numbers,
+.suf-page-nav a.page-numbers:visited {
+	color: #d05e0b;
+}
+
+/* comment list */
+.commentlist cite {
+	color: #d05e0b;
+}
+.commentlist cite a, .commentlist cite a:visited {
+	color: #d05e0b;
+}
+
+/* Credits  */
+#cred a:hover {
+	color: #d05e0b;
+}
+
+.suf-widget h3.scheme,
+.suf-widget h3.scheme:hover,
+.suf-widget h3.scheme a, 
+.suf-widget h3.scheme a:visited {
+	color: #fff;
+}
+
+.suf-widget a:hover,
+.suf-widget a:focus,
+.suf-widget a:active,
+#sidebar a:hover,
+#sidebar-2 a:hover,
+#sidebar a:focus,
+#sidebar-2 a:focus,
+#sidebar a:active,
+#sidebar-2 a:active {
+	color: #d05e0b;
+}
+
+.suf-widget ul li {
+	background-image: url(images/icons/bulletorange.png);
+}
+
+.suf-widget ul li ul li {
+	background-image: url(images/icons/bulletorange.png);
+}
+
+.widget_archive ul li,
+.widget_archive ul li ul li {
+	background-image: url(images/icons/calendar_date.png);
+}
+
+.widget_categories ul li,
+.widget_categories ul li ul li,
+.widget_categories ul li ul li ul li {
+	background-image: url(images/icons/folder-orange.png);
+}
+
+#archives ul li {
+	background-image: url(images/icons/calendar_date.png);
+}
+
+#recent-comments ul li {
+	background-image: url(images/icons/comments.png);
+}
+
+#recent-posts ul li {
+	background-image: url(images/icons/page_copy.png);
+}
+
+#categories ul li,
+#categories ul li ul li,
+#categories ul li ul li ul li {
+	background-image: url(images/icons/folder-orange.png);
+}
+
+/* meta */
+#meta .check {
+	background: url(images/check.gif) no-repeat left center;
+}
+
+/* calendar */
+#calendar a,
+.widget_calendar a {
+	color: #d05e0b;
+}
+
+/* The following are defined for the dark-orange scheme only, due to the default dark-style colors not gelling well with red*/
+blockquote{
+	border: 1px solid #222222;
+}
+
+#wrapper {
+	background-color: #000000;
+	border-color: #222222;
+}
+
+div.dbx-box {
+	border: 1px solid #222222;
+}
+
+.dbx-handle {
+	border-bottom: 1px dotted #222222;
+}
+
+#nav {
+	border-bottom: 1px solid #222222;
+}
+
+#nav ul li{
+	border: 1px solid #222222;
+}
+
+#nav ul ul li {
+	border: 1px solid #222222;
+}
+
+#subnav {
+	border: 1px solid #222222;
+}
+
+#subnav li {
+	border-right: 1px solid #222222;
+}
+
+#subnav .current_page_item,
+#subnav .current_page_parent {
+	background: #000;
+}
+
+#l3nav, #l4nav, #l5nav, #l6nav, #l7nav, #l8nav {
+	border: 1px solid #222222;
+	margin-top: 0px;
+}
+
+#l3nav .current_page_item,
+#l4nav .current_page_item, 
+#l5nav .current_page_item, 
+#l6nav .current_page_item, 
+#l7nav .current_page_item, 
+#l8nav .current_page_item {
+	background: #000000;
+	border-left: 1px solid #222222;
+}
+
+#l3nav li,
+#l4nav li, 
+#l5nav li, 
+#l6nav li, 
+#l7nav li, 
+#l8nav li {
+	border-right: 1px solid #222222;
+}
+
+.post {
+	border: 1px solid #222222;
+}
+
+h2.posttitle {
+	border-bottom: dotted 1px #222222;
+}
+
+.page-nav {
+	border: 1px solid #222222;
+}
+
+.post-nav {
+	border: 1px solid #222222;
+}
+
+#commentform textarea {
+	border: solid 1px #222222;
+}
+
+#cred {
+	border-top: 1px solid #222222;
+}
+
+input{
+	border: solid 1px #222222;
+}
+	
+textarea {
+	border: solid 1px #222222;
+}
+
+.button, input[type="submit"], .submit {
+	border: 2px double #222222;
+}
+
+#postbox, #postbox textarea {
+	border: solid 1px #222222;
+}
+
+.author-profile {
+	border-color: #222222;
+}
+
+/* Settings for Featured Posts */
+#featured-posts {
+	border-color: #222222;
+}
+
+/* These settings are for common plugins */
+.wp-pagenavi a,
+.wp-pagenavi a:visited,
+.wp-pagenavi span {
+	color: #d05e0b;
+}
+
+.wp-pagenavi a:hover {
+	color: #fff;
+}
+
+.tab-box ul.sidebar-tabs li a {
+	border: 1px solid #222;
+}
+
+.tab-box div.sidebar-tab-content {
+	border: 1px solid #222;
+}
+
+/* Magazine */
+.suf-mag-headlines,
+.suf-mag-excerpts td,
+.suf-mag-categories th,
+.suf-mag-categories td {
+	border: 1px solid #222;
+}
+
+

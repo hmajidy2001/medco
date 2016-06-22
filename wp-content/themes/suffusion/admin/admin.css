@@ -1,0 +1,325 @@
+.suf-options {
+	width: 1010px;
+	padding: 0px;
+	font-family: Tahoma, "Trebuchet MS", Trebuchet, Arial;
+	display: inline-block;
+	float: left;
+	margin-top: 10px;
+}
+
+* html .suf-options {
+	w\idth: 1020px;
+}
+
+h2.suf-header-1 {
+	display: inline-block;
+	width: 100%;
+	height: 30px;
+	padding: 5px 0px 5px 10px;
+	background-color: #444; /*#0052a4;*/
+	font-family: Tahoma, "Trebuchet MS", Trebuchet, Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	text-shadow: none;
+	color: #eee;
+}
+h3.suf-header-2,
+li.suf-header-2 {
+	display: inline-block;
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	vertical-align: middle;
+	padding: 0px 0px 0px 10px;
+	background-color: #888;
+	font-family: Tahoma, "Trebuchet MS", Trebuchet, Arial;
+	font-weight: bold;
+	font-size: 15px;
+	margin: 0px 0px 0px 0px;
+	color: #eee;
+}
+
+h3.suf-header-3,
+li.suf-header-3 {
+	display: inline-block;
+	width: 100%;
+	height: 30px;
+	padding: 5px 0px 5px 10px;
+	background-color: #AAA;
+	font-family: Tahoma, "Trebuchet MS", Trebuchet, Arial;
+	font-weight: normal;
+	font-size: 14px;
+	margin: 0px 0px 0px 0px;
+	color: #000;
+}
+
+.suf-options .tabs {
+	width: 200px;
+	float: left;
+	padding: 0px 0px 0px 0px;
+}
+
+.tabs .level-2,
+.tabs .level-3 {
+	margin: 5px 0px 5px 0px;
+	padding-top: 5px;
+	height: 30px;
+	line-height: 22px;
+	width: 200px;
+	font-size: 13px;
+	text-align: center;
+	vertical-align: middle;
+	border: 1px solid #c0c0c0;
+	display: block;
+}
+
+.tabs .level-2:first-child {
+	margin-top: 0px;
+}
+
+.tabs a {
+}
+
+.tabs a:hover {
+	border-width: 2px;
+	height: 28px;
+	width: 198px;
+	font-weight: bold;
+}
+
+.tabs .level-1 {
+	border: none;
+	font-size: 13px;
+	text-align: center;
+	background-color: transparent;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #222;
+}
+
+.tabs .level-2 {
+	background-color: #888;
+	background-color: transparent;
+	border-right: none;
+	border-left: none;
+	font-weight: bold;
+	color: #444;
+}
+
+.tabs .level-3 {
+	background-color: #fff;
+	color: #333;
+	cursor: pointer;
+}
+
+.tabs li div {
+	vertical-align: bottom;
+}
+
+.suf-options .main-content {
+	width: 800px;
+	float: right;
+	padding-top: 0px;
+}
+
+* html .suf-options .main-content {
+	padd\ing-top: 3px;
+}
+
+.suf-section {
+	display: inline-block;
+	width: 100%;
+/*	border-bottom: 1px dotted #c0c0c0;*/
+	padding: 10px 0px 10px 10px;
+	overflow: hidden;
+
+	background-color: #fff;
+	margin: 5px 0px 5px 0px;
+	border: 1px solid #c0c0c0;
+}
+
+.level-1,
+.level-3,
+h3.suf-header-2,
+.suf-section {
+	-moz-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.suf-section h3 {
+	border-bottom: 1px dotted #c0c0c0;
+}
+
+.suf-section .suf-left {
+	width: 20%;
+	float: left;
+	padding: 0px 15px 0px 5px;
+}
+.suf-section .suf-right {
+	width: 75%;
+	float: left;
+}
+.suf-section .picture {
+	width: 280px;
+	display: inline-block;
+	padding: 10px;
+	margin-right: 5px;
+	vertical-align: middle;
+}
+.suf-section .picture p{
+	text-align: center;
+}
+.suf-section img {
+	border: none;
+}
+.suf-section .suf-radio {
+	display: inline-block;
+	padding: 5px;
+	width: 380px;
+	margin-right: 10px;
+	float: left;
+}
+.suf-section .suf-radio img {
+	vertical-align: middle;
+	padding-right: 5px;
+	float: left;
+}
+.suf-section input[type="radio"] {
+	margin-right: 10px;
+	border: none;
+	vertical-align: middle;
+}
+.suf-section input[type="checkbox"] {
+	margin-right: 10px;
+	border: none;
+}
+.suf-section .disp-box {
+	display: inline-block; 
+	text-align: center; 
+	width: 100px; 
+	height: 30px; 
+	border: 1px solid #666; 
+	padding-top: 10px;
+}
+
+.suf-checklist {
+	height: 200px;
+	width: 400px;
+	overflow: auto;
+	margin-top: 20px;
+}
+.suf-checklist li:hover {
+	background: #eee;
+}
+.suf-checklist .depth-1{
+	margin-left: 15px;
+}
+
+.suf-checklist .depth-2{
+	margin-left: 30px;
+}
+
+.suf-checklist .depth-3{
+	margin-left: 45px;
+}
+
+.suf-checklist .depth-4{
+	margin-left: 60px;
+}
+
+.suf-checklist .depth-5{
+	margin-left: 75px;
+}
+
+.suf-options .color-picker { 
+	padding: 20px 0px 0px 20px;
+}
+
+.suf-options input[type="text"] {
+	width: 400px;
+}
+
+.suf-options input[type="text"].color {
+	width: 200px;
+}
+
+.suf-options textarea {
+	width: 400px;
+	height: 200px;
+}
+
+.suf-options select {
+	width: 250px;
+}
+
+.suf-options .current-tab {
+	background-color: #97caff;
+	border-width: 2px;
+	height: 28px;
+	width: 198px;
+	font-weight: bold;
+}
+
+.suf-options .note {
+	color: #ff0000;
+}
+
+.suf-options .suf-button-bar {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	padding: 20px 0px 20px 0px;
+}
+
+.suf-section ol.faq-list > li {
+	padding-bottom: 10px;
+	border-bottom: 1px dotted #cccccc;
+}
+
+.suf-section ol.faq-list ul {
+	padding-left: 20px;
+}
+
+.suf-section ol.faq-list ul li {
+	list-style-type: circle;
+}
+
+.suf-sort-list {
+	padding-left: 40px;
+	display: block;
+	width: 300px;
+}
+
+li.suf-sort-list-item {
+	display: block;
+	width: 300px;
+	border: 1px solid #c0c0c0;
+	padding: 10px 20px;
+	margin: 3px 0px;
+	cursor: move;
+}
+
+span.mac {
+	color: RoyalBlue;
+}
+
+.twitter-icons span {
+	display: inline-block;
+	margin: 10px 8px 10px 0px;
+}
+
+.twitter-icons img {
+	vertical-align: middle;
+}
+
+ul.twitter-desc, ul.twitter-desc li {
+	list-style-type: disc;
+	margin-left: 15px;
+}
+
+.widget label {
+	font-weight: bold;
+}

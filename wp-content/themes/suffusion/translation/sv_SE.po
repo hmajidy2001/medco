@@ -1,0 +1,665 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Suffusion\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-11-25 02:06-0800\n"
+"Last-Translator: Iréne Svensson Räisänen <irene@poeten.se>\n"
+"Language-Team: Aquoid\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#. Text in function
+#: suffusion/legacy-comments.php:31
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#. Text in function
+#: suffusion/comments.php:35
+#: suffusion/functions/actions.php:908
+msgid "% Responses"
+msgstr "% Synpunkter"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:95
+#: suffusion/legacy-comments.php:98
+#: suffusion/comments.php:80
+msgid "(required)"
+msgstr "(krävs)"
+
+#. Text in function
+#: suffusion/functions/actions.php:908
+msgid "1 Response"
+msgstr "1 synpunkt"
+
+#. Text in echo
+#: suffusion/comments.php:84
+msgid "<acronym title=\"Uniform Resource Identifier\">URI</acronym>"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "A search form for your blog"
+msgstr "Ett sökformulär för din blogg"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "A widget to enable people to follow you on Twitter"
+msgstr "En widget för att människor ska kunna följa dig på Twitter"
+
+#. Text in echo
+#: suffusion/functions/actions.php:922
+msgid "Add comments"
+msgstr "Lägg till kommentar"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Arbitrary text or HTML"
+msgstr "Godtycklig text eller HTML"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/sidebar.php:37
+msgid "Archives"
+msgstr "Arkiv"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/sidebar.php:26
+msgid "Categories"
+msgstr "Kategorier"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Comments"
+msgstr "Kommentarer"
+
+#. Text in echo
+#: suffusion/sidebar.php:67
+msgid "Comments (RSS)"
+msgstr "Kommentarer (RSS)"
+
+#. Text in echo
+#: suffusion/sidebar-tabs.php:69
+#: suffusion/suffusion-widgets.php:108
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "Kommentars <abbr title=\"Riktigt enkel syndication\">RSS</abbr>"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:68
+msgid "Comments are closed"
+msgstr "Det går inte att kommentera"
+
+#. Text in function
+#: suffusion/single.php:18
+#: suffusion/functions/actions.php:558
+msgid "Continue reading"
+msgstr "Fortsätta läsa"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:289
+msgid "Creates a border around the widget"
+msgstr "Gör en kant runt widget"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 1"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 10"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 2"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 3"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 4"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 5"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 6"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 7"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 8"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 9"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Don't show feeds"
+msgstr "Visa inte feeds"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Don't show outer border"
+msgstr "Visa inte ytterkant"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Don't show tagline"
+msgstr "Visa inte tagline"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Don't show title"
+msgstr "Visa inte titel"
+
+#. Text in echo
+#: suffusion/comments.php:78
+msgid "E-mail"
+msgstr "E-post"
+
+#. Text in function
+#: suffusion/functions/actions.php:911
+#: suffusion/functions/actions.php:924
+msgid "Edit"
+msgstr "Redigera"
+
+#. Text in echo
+#: suffusion/functions.php:427
+msgid "Enter the full URL of the featured image that you would like to use, including http://"
+msgstr "Skriv fullständig URL till den Dagens bild du vill använda, inklusive http://"
+
+#. Text in echo
+#: suffusion/functions.php:422
+msgid "Enter the full URL of the thumbnail image that you would like to use, including http://"
+msgstr "Skriv fullständig URL till den tumnagelbild du vill använda, inklusive http://"
+
+#. Text in echo
+#: suffusion/sidebar.php:66
+msgid "Entries (RSS)"
+msgstr "Inläggen (RSS)"
+
+#. Text in echo
+#: suffusion/sidebar-tabs.php:68
+#: suffusion/suffusion-widgets.php:107
+msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "Inlägg <abbr title=\"Enkel syndication\">RSS</abbr>"
+
+#. Text in echo
+#: suffusion/404.php:15
+msgid "Error 404 - Not Found"
+msgstr "Fel 404 - Finns inte"
+
+#. Text in echo
+#: suffusion/functions.php:425
+msgid "Featured Image"
+msgstr "Dagens bild"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Follow me on Twitter"
+msgstr "Följ mig på Twitter"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "If you are placing this widget in the \\\"Right Header Widgets\\\":"
+msgstr "Om du lägger denna widget i \\\"Höger sida widgets\\\":"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "If you are placing this widget in the sidebars or in \\\"Widget Area below Header\\\" or \\\"Widget Area below Footer\\\":"
+msgstr "Om du lägger denna widget i sidkolumnen eller i \\\"Widgetområdet är nedanför Header\\\" or \\\"Widgetområdet är nedanför Footer\\\":"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:76
+#: suffusion/comments.php:49
+msgid "Leave a Reply"
+msgstr "Skriv en kommentar"
+
+#. Text in function
+#: suffusion/comments.php:49
+msgid "Leave a Reply to %s"
+msgstr "Skriv en kommentar till"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/sidebar.php:48
+msgid "Links"
+msgstr "Länkar"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Log in/out, admin, feed and WordPress links"
+msgstr "Logga in/ut, admin, feed och WordPresslänkar"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:90
+#: suffusion/comments.php:64
+msgid "Log out"
+msgstr "Logga ut"
+
+#. Text in function
+#: suffusion/legacy-comments.php:89
+#: suffusion/comments.php:63
+msgid "Logged in as %s. "
+msgstr "Inloggad som %s. "
+
+#. Text in echo
+#: suffusion/legacy-comments.php:98
+msgid "Mail"
+msgstr "E-post"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/sidebar.php:59
+#: suffusion/suffusion-widgets.php:362
+msgid "Meta"
+msgstr "Meta"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "My Tweets"
+msgstr "Mina tweets"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:95
+#: suffusion/comments.php:72
+msgid "Name"
+msgstr "Namn"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Newer %1$s"
+msgstr "Aldrig %1$s"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Newer Comments"
+msgstr "Nya kommentarer"
+
+#. Text in function
+#: suffusion/functions/actions.php:926
+#: suffusion/functions/actions.php:814
+msgid "Newer Entries"
+msgstr "Nya inlägg"
+
+#. Text in function
+#: suffusion/featured-posts.php:1
+msgid "Next Post"
+msgstr "Nästa inlägg"
+
+#. Text in function
+#: suffusion/legacy-comments.php:31
+msgid "No Comments"
+msgstr "Inga kommentarer"
+
+#. Text in function
+#: suffusion/comments.php:35
+#: suffusion/functions/actions.php:908
+msgid "No Responses"
+msgstr "Inga synpunkter"
+
+#. Text in echo
+#: suffusion/category.php:34
+#: suffusion/index.php:36
+#: suffusion/author.php:34
+msgid "Not Found"
+msgstr "Finns inte"
+
+#. Text in echo
+#: suffusion/search.php:35
+msgid "Nothing Found"
+msgstr "Hittades inte"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:349
+msgid "Number of Tweets to display:"
+msgstr "Antal Tweets som visas:"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Older %1$s"
+msgstr "Äldre %1$s"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Older Comments"
+msgstr "Äldre kommentarer"
+
+#. Text in function
+#: suffusion/functions/actions.php:926
+#: suffusion/functions/actions.php:813
+msgid "Older Entries"
+msgstr "Äldre inlägg"
+
+#. Text in function
+#: suffusion/legacy-comments.php:31
+msgid "One Comment"
+msgstr "En kommentar"
+
+#. Text in function
+#: suffusion/comments.php:35
+msgid "One Response"
+msgstr "En synpunkt"
+
+#. Text in function
+#: suffusion/functions/filters.php:218
+#: suffusion/functions/actions.php:789
+msgid "Page %1$s of %2$s"
+msgstr "Sida %1$ av %2$\""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Pages"
+msgstr "Sidor"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Pages:"
+msgstr "Sidor"
+
+#. Text in function
+#: suffusion/featured-posts.php:1
+#: suffusion/functions/actions.php:926
+msgid "Pause"
+msgstr "Paus"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Pingbacks"
+msgstr "Pingbacks"
+
+#. Text in echo
+#: suffusion/search.php:37
+msgid "Please try another search."
+msgstr "Var vänlig och gör en ny sökning."
+
+#. Text in function
+#: suffusion/functions/actions.php:690
+msgid "Posted by %1$s at %2$s"
+msgstr "Skrivet av  %1$s den %2$s"
+
+#. Text in function
+#: suffusion/featured-posts.php:1
+msgid "Previous Post"
+msgstr "Föregående inlägg"
+
+#. Text in function
+#: suffusion/categories.php:39
+msgid "RSS"
+msgstr "RSS"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Recent Comments"
+msgstr "Senaste kommentarerna"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Recent Posts"
+msgstr "Senaste inläggen"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Recommended settings:"
+msgstr "Rekommenderade inställningar:"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:345
+msgid "Recommended sizes: 32px if the widget is being added to the \\\"Right Header Widgets\\\" area, whatever you like otherwise. Note that making the image too large will cause loss of picture quality."
+msgstr "Rekommenderad storlek: 32px om widgeten läggs till \\\"Right Header Widgets \\\" område, vad du vill något annat. Observera att göra bilden är för stor kommer att orsaka förlust av bildkvalitet."
+
+#. Text in function
+#: suffusion/functions/actions.php:926
+msgid "Resume"
+msgstr "Sammanfattning"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/searchform.php:11
+#: suffusion/suffusion-widgets.php:362
+msgid "Search"
+msgstr "Sök"
+
+#. Text in function
+#: suffusion/sidebar-tabs.php:213
+msgid "Select"
+msgstr ""
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:330
+msgid "Select your Twitter icon:"
+msgstr "Välj din Twitterikon"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:341
+msgid "Set the height for the Twitter icon:"
+msgstr "Sätt höjden för Twitterikonen"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:288
+msgid "Show Outer Border"
+msgstr "Visa yteerkanten"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:295
+msgid "Show Title"
+msgstr "Visa rubrik"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:301
+msgid "Show Twitter Icon"
+msgstr "Visa Twitterikon"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:307
+msgid "Show a Tagline"
+msgstr "Visa en Taglina"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show feeds"
+msgstr "Visa feed"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show icon"
+msgstr "Visa ikon"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:313
+msgid "Show my Tweets"
+msgstr "Visa mina tweets"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show outer border"
+msgstr "Visa ytterkanten"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show tagline"
+msgstr "Visa taglina"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show title"
+msgstr "Visa rubrik"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:296
+msgid "Shows the title of the widget"
+msgstr "Visa rubriken på widget"
+
+#. Text in echo
+#: suffusion/category.php:36
+#: suffusion/index.php:38
+#: suffusion/author.php:36
+msgid "Sorry, but you are looking for something that isn't here"
+msgstr "Ledsen, men du letar efter något som inte är här"
+
+#. Text in echo
+#: suffusion/single.php:27
+msgid "Sorry, no posts matched your criteria."
+msgstr "Tyvärr, inga inlägg matchade dina kriterier."
+
+#. Text in echo
+#: suffusion/comments.php:112
+msgid "Sorry, the comment form is closed at this time."
+msgstr "Ledsen, det är inte möjligt att kommentera."
+
+#. Text in echo
+#: suffusion/404.php:18
+msgid "Sorry, the page that you are looking for does not exist."
+msgstr "Ledsen, den sida du söker finns inte."
+
+#. Text in echo
+#: suffusion/legacy-comments.php:110
+#: suffusion/comments.php:101
+msgid "Submit Comment"
+msgstr "Skicka kommentar"
+
+#. Text in function
+#: suffusion/sidebar-tabs.php:68
+#: suffusion/suffusion-widgets.php:107
+msgid "Syndicate this site using RSS 2.0"
+msgstr "Syndikera denna webbplats med hjälp av RSS 2.0"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Tag Cloud"
+msgstr "Taggmoln"
+
+#. Text in function
+#: suffusion/functions/actions.php:693
+msgid "Tagged with: "
+msgstr "Taggade med:"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:323
+msgid "Tagline:"
+msgstr "Tagline:"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Text"
+msgstr "Text"
+
+#. Text in function
+#: suffusion/sidebar-tabs.php:69
+#: suffusion/suffusion-widgets.php:108
+msgid "The latest comments to all posts in RSS"
+msgstr "RSS till de senaste kommentarerna till alla inläggen"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:282
+msgid "This is the user who will be followed"
+msgstr "Detta är den användare som kommer att följas"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:17
+#: suffusion/comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Det här inlägget är skyddat av lösenord. Ange lösenordet för att visa kommentarer."
+
+#. Text in echo
+#: suffusion/functions.php:420
+msgid "Thumbnail"
+msgstr "Tumnagelbilder "
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:318
+msgid "Title:"
+msgstr "Rubrik:"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Twitter"
+msgstr "Twitter"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:280
+msgid "User:"
+msgstr "Användare:"
+
+#. Text in echo
+#: suffusion/sidebar.php:65
+msgid "Valid XHTML"
+msgstr "Valid XHTML"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:104
+msgid "Website (OpenID supported)"
+msgstr "Webbsajten (stöder OpenID)"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:302
+msgid "Will show the selected Twitter icon"
+msgstr "Visar vald twitterikon"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:308
+msgid "Will show up near the Twitter icon"
+msgstr "Visas nära twitterikonen"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:314
+msgid "Will show your latest tweets"
+msgstr "Visar dina senaste tweets"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:79
+msgid "You must be logged in to post a comment"
+msgstr "Du måste vara inloggad för att kommentera"
+
+#. Text in echo
+#: suffusion/comments.php:52
+msgid "You must be logged in to post a comment."
+msgstr "Du måste vara inloggad för att kommentera"
+
+#. Text in echo
+#: suffusion/comments.php:91
+msgid "Your Comment"
+msgstr "Din kommentar"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:42
+msgid "Your comment is awaiting moderation"
+msgstr "Din kommentar väntar på granskning"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:98
+msgid "will not be published"
+msgstr "kommer inte att publiceras"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "your-user-name"
+msgstr "ditt-användar-namn"
+

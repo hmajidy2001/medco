@@ -1,0 +1,67 @@
+Version 3.0.1 - 30th Nov 2009
+=============================
+1. Added more features to Tabbed Sidebars. You can now have upto 10 custom
+tabs, each of which is like a Text widget. File modified: sidebar-tabs.php
+2. Fixed some IE6 look-and-feel issues. File modified: ie-fix.css
+3. Fixed some RTL language layout issues. File modified: rtl.css
+4. Fixed the layout problems for widgets without titles. Files modified:
+functions.php and actions.php.
+
+Version 3.0.0 - 25th Nov 2009
+=============================
+1. Introduced a Magazine Layout. New file: magazine.php
+2. Added controls for featured post image size. File modified: functions.php
+3. Added an Arabic Translation
+4. Provided the capability to turn off default widgets in the first sidebar.
+File modified: sidebar.php
+
+Version 2.6.5 - 18th Nov 2009
+=============================
+1. Fixed some long-standing CSS bugs in IE6/IE7. Specifically in IE6, upon
+hover over the menu the entire drop-down tree would be shown (all levels). Now
+only the level immediately below is shown. For both IE6 and IE7, if the menu
+spanned two lines, the drop-down for an item in the first line got obscured by
+an item in the second line. Both of these have been fixed and are now working.
+	
+Version 2.6.4 - 17th Nov 2009
+=============================
+1. Fixed bug in "All Categories" template where the template name was missing
+from the file categories.php
+2. Added page support for featured content. File modified: featured-posts.php
+
+Version 2.6.3 - 16th Nov 2009
+=============================
+1. Added RTL language support (experimental). File modified: actions.php, rtl.css
+2. Fixed bug in admin screens, where featured categories were not being saved.
+File modified: functions.php
+3. Fixed bug in plugin support, where plugins.css was not being included in
+the page header. File modified: actions.php
+
+Version 2.6.2 - 13th Nov 2009
+=============================
+1. Added category navigation to the Navigation Bar. File modified: functions.php
+2. Fixed bug in Featured Posts. Earlier posts were being limited to number of
+posts per page. File modified: featured-posts.php
+3. Added template for listing multiple categories in one page. File added:
+categories.php
+4. Made individual page / post title SEO friendly. File modified: header.php
+5. Added option to change wrapper background color (most frequently asked question)
+
+Version 2.6.0 - 08th Nov 2009
+=============================
+1. Added tabbed sidebar functionality. Files modified: sidebar-tabs.php (new), sidebar-tabs.js (new), actions.php
+2. Fixed backward compatibility issue with the theme. File modified: actions.php
+
+Version 2.5.3 - 31st Oct 2009
+=============================
+1. Added comment pagination code. Files modified: comments.php, filters.php, theme-options.php and stylesheets
+2. Made wrapper width customizable. Files modified: custom-styles.php and theme-options.php
+
+Version 2.5.2 - 29th Oct 2009
+=============================
+1. Modified screenshot based on feedback from WP. No other changes
+
+Version 2.5.1 - 28th Oct 2009
+=============================
+1. Fixed a bug in the DBX JavaScript inclusion logic. It was getting included on pages without sidebars too.
+2. Started making design changes for supporting multiple widths.

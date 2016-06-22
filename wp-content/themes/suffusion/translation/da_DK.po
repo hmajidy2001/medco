@@ -1,0 +1,528 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Suffusion 2.6.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-11 07:07+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Team Blogos <wordpress@blogos.dk>\n"
+"Language-Team: Team Blogos <wordpress@blogos.dk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2;plural=n != 1;\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_c;_e;__ngettext:1,2;__ngettext_noop:1,2;_n:1,2;_nc:1,2;_n_noop:1,2\n"
+"X-Poedit-Basepath: d:\\wordpress\\themes\\translated\\suffusion\n"
+"X-Poedit-SearchPath-0: d:\\wordpress\\themes\\translated\\suffusion\n"
+
+#: d:\wordpress\themes\translated\suffusion/404.php:15
+msgid "Error 404 - Not Found"
+msgstr "Fejl 404 - Ikke fundet"
+
+#: d:\wordpress\themes\translated\suffusion/404.php:18
+msgid "Sorry, the page that you are looking for does not exist."
+msgstr "Beklager, men siden, du ser efter, eksisterer ikke."
+
+#: d:\wordpress\themes\translated\suffusion/author.php:34
+#: d:\wordpress\themes\translated\suffusion/category.php:34
+#: d:\wordpress\themes\translated\suffusion/index.php:36
+#: d:\wordpress\themes\translated\suffusion/magazine.php:36
+msgid "Not Found"
+msgstr "Ikke fundet"
+
+#: d:\wordpress\themes\translated\suffusion/author.php:36
+#: d:\wordpress\themes\translated\suffusion/category.php:36
+#: d:\wordpress\themes\translated\suffusion/index.php:38
+#: d:\wordpress\themes\translated\suffusion/magazine.php:38
+msgid "Sorry, but you are looking for something that isn't here"
+msgstr "Beklager, men du leder efter noget, som ikke er her."
+
+#: d:\wordpress\themes\translated\suffusion/comments.php:15
+#: d:\wordpress\themes\translated\suffusion/legacy-comments.php:17
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dette indlæg er kodeordsbeskyttet. Indtast kodeordet for at se kommentarer."
+
+#: d:\wordpress\themes\translated\suffusion/comments.php:35
+msgid "No Responses"
+msgstr "Ingen svar"
+
+#: d:\wordpress\themes\translated\suffusion/comments.php:35
+msgid "One Response"
+msgstr "Én reaktion"
+
+#: d:\wordpress\themes\translated\suffusion/comments.php:35
+msgid "% Responses"
+msgstr "% svar"
+
+#: d:\wordpress\themes\translated\suffusion/comments.php:49
+#: d:\wordpress\themes\translated\suffusion/legacy-comments.php:76
+msgid "Leave a Reply"
+msgstr "Læg et svar"
+
+#: d:\wordpress\themes\translated\suffusion/comments.php:49
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Læg et svar til %s"
+
+#: d:\wordpress\themes\translated\suffusion/comments.php:52
+msgid "You must be logged in to post a comment."
+msgstr "Du skal være logget ind for at skrive en kommentar."
+
+#: d:\wordpress\themes\translated\suffusion/comments.php:63
+#: d:\wordpress\themes\translated\suffusion/legacy-comments.php:89
+#, php-format
+msgid "Logged in as %s. "
+msgstr "Logget ind som %s. "
+
+#: d:\wordpress\themes\translated\suffusion/comments.php:64
+#: d:\wordpress\themes\translated\suffusion/legacy-comments.php:90
+msgid "Log out"
+msgstr "Log ud"
+
+#: d:\wordpress\themes\translated\suffusion/comments.php:72
+#: d:\wordpress\themes\translated\suffusion/legacy-comments.php:95
+msgid "Name"
+msgstr "Navn"
+
+#: d:\wordpress\themes\translated\suffusion/comments.php:74
+#: d:\wordpress\themes\translated\suffusion/comments.php:80
+#: d:\wordpress\themes\translated\suffusion/legacy-comments.php:95
+#: d:\wordpress\themes\translated\suffusion/legacy-comments.php:98
+msgid "(required)"
+msgstr "(skal udfyldes)"
+
+#: d:\wordpress\themes\translated\suffusion/comments.php:78
+msgid "E-mail"
+msgstr "E-mail"
+
+#: d:\wordpress\themes\translated\suffusion/comments.php:84
+msgid "<acronym title=\"Uniform Resource Identifier\">URI</acronym>"
+msgstr "<acronym title=\"Uniform Resource Identifier\">URI</acronym>"
+
+#: d:\wordpress\themes\translated\suffusion/comments.php:91
+msgid "Your Comment"
+msgstr "Din kommentar"
+
+#: d:\wordpress\themes\translated\suffusion/comments.php:101
+#: d:\wordpress\themes\translated\suffusion/legacy-comments.php:110
+msgid "Submit Comment"
+msgstr "Indsend kommentar"
+
+#: d:\wordpress\themes\translated\suffusion/comments.php:112
+msgid "Sorry, the comment form is closed at this time."
+msgstr "Beklager! Kommentarformularen er lukket i øjeblikket."
+
+#: d:\wordpress\themes\translated\suffusion/featured-posts.php:143
+msgid "Previous Post"
+msgstr "Forrige indlæg"
+
+#: d:\wordpress\themes\translated\suffusion/featured-posts.php:144
+msgid "Pause"
+msgstr "Pause"
+
+#: d:\wordpress\themes\translated\suffusion/featured-posts.php:145
+msgid "Next Post"
+msgstr "Næste indlæg"
+
+#: d:\wordpress\themes\translated\suffusion/functions.php:35
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: d:\wordpress\themes\translated\suffusion/functions.php:35
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: d:\wordpress\themes\translated\suffusion/functions.php:35
+msgid "Pingbacks"
+msgstr "Pingbacks"
+
+#: d:\wordpress\themes\translated\suffusion/functions.php:38
+msgid "Archives"
+msgstr "Arkiver"
+
+#: d:\wordpress\themes\translated\suffusion/functions.php:39
+msgid "Categories"
+msgstr "Kategorier"
+
+#: d:\wordpress\themes\translated\suffusion/functions.php:40
+msgid "Links"
+msgstr "Links"
+
+#: d:\wordpress\themes\translated\suffusion/functions.php:41
+msgid "Meta"
+msgstr "Meta"
+
+#: d:\wordpress\themes\translated\suffusion/functions.php:42
+msgid "Pages"
+msgstr "Sider"
+
+#: d:\wordpress\themes\translated\suffusion/functions.php:43
+msgid "Recent Comments"
+msgstr "Nye kommentarer"
+
+#: d:\wordpress\themes\translated\suffusion/functions.php:44
+msgid "Recent Posts"
+msgstr "Nye indlæg"
+
+#: d:\wordpress\themes\translated\suffusion/functions.php:45
+msgid "Search"
+msgstr "Søg"
+
+#: d:\wordpress\themes\translated\suffusion/functions.php:46
+msgid "Tag Cloud"
+msgstr "Tag-sky"
+
+#: d:\wordpress\themes\translated\suffusion/functions.php:359
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: d:\wordpress\themes\translated\suffusion/functions.php:361
+msgid "Enter the full URL of the thumbnail image that you would like to use, including http://"
+msgstr "Indtast den fulde URL til miniaturebilledet, som du vil bruge, inkl. http://"
+
+#: d:\wordpress\themes\translated\suffusion/functions.php:364
+msgid "Featured Image"
+msgstr "Fremhævet (featured) billede"
+
+#: d:\wordpress\themes\translated\suffusion/functions.php:366
+msgid "Enter the full URL of the featured image that you would like to use, including http://"
+msgstr "Indtast den fulde URL til det fremhævede billede, som du vil bruge, inkl. http://"
+
+#: d:\wordpress\themes\translated\suffusion/functions.php:408
+msgid "Tags"
+msgstr "Tags"
+
+#: d:\wordpress\themes\translated\suffusion/legacy-comments.php:31
+msgid "No Comments"
+msgstr "Ingen kommentarer"
+
+#: d:\wordpress\themes\translated\suffusion/legacy-comments.php:31
+msgid "One Comment"
+msgstr "Én kommentar"
+
+#: d:\wordpress\themes\translated\suffusion/legacy-comments.php:31
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: d:\wordpress\themes\translated\suffusion/legacy-comments.php:42
+msgid "Your comment is awaiting moderation"
+msgstr "Din kommentar afventer godkendelse"
+
+#: d:\wordpress\themes\translated\suffusion/legacy-comments.php:68
+msgid "Comments are closed"
+msgstr "Der er lukket for kommentarer"
+
+#: d:\wordpress\themes\translated\suffusion/legacy-comments.php:79
+msgid "You must be logged in to post a comment"
+msgstr "Du skal være logget ind for at skrive en kommentar."
+
+#: d:\wordpress\themes\translated\suffusion/legacy-comments.php:98
+msgid "Mail"
+msgstr "Mail"
+
+#: d:\wordpress\themes\translated\suffusion/legacy-comments.php:98
+msgid "will not be published"
+msgstr "vil ikke blive offentliggjort"
+
+#: d:\wordpress\themes\translated\suffusion/legacy-comments.php:104
+msgid "Website (OpenID supported)"
+msgstr "Website (OpenID-understøttet)"
+
+#: d:\wordpress\themes\translated\suffusion/search.php:35
+msgid "Nothing Found"
+msgstr "Intet fundet"
+
+#: d:\wordpress\themes\translated\suffusion/search.php:37
+msgid "Please try another search."
+msgstr "Vil du prøve en anden søgning?"
+
+#: d:\wordpress\themes\translated\suffusion/sidebar-tabs.php:42
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:107
+msgid "Syndicate this site using RSS 2.0"
+msgstr "Syndikér denne side med RSS 2.0"
+
+#: d:\wordpress\themes\translated\suffusion/sidebar-tabs.php:42
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:107
+msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "Indlægs-<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+
+#: d:\wordpress\themes\translated\suffusion/sidebar-tabs.php:43
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:108
+msgid "The latest comments to all posts in RSS"
+msgstr "De seneste kommentarer til alle indlæg via RSS"
+
+#: d:\wordpress\themes\translated\suffusion/sidebar-tabs.php:43
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:108
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "Kommentar-<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+
+#: d:\wordpress\themes\translated\suffusion/sidebar.php:65
+msgid "Valid XHTML"
+msgstr "Gyldig XHTML"
+
+#: d:\wordpress\themes\translated\suffusion/sidebar.php:66
+msgid "Entries (RSS)"
+msgstr "Indlæg (RSS)"
+
+#: d:\wordpress\themes\translated\suffusion/sidebar.php:67
+msgid "Comments (RSS)"
+msgstr "Kommentarer (RSS)"
+
+#: d:\wordpress\themes\translated\suffusion/single.php:18
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:564
+msgid "Continue reading"
+msgstr "Fortsæt læsning"
+
+#: d:\wordpress\themes\translated\suffusion/single.php:27
+msgid "Sorry, no posts matched your criteria."
+msgstr "Der var desværre ingen indlæg, der matchede dine søgekriterier."
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:16
+msgid "A search form for your blog"
+msgstr "Et søgefelt til din blog"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:52
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:318
+msgid "Title:"
+msgstr "Titel:"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:65
+msgid "Arbitrary text or HTML"
+msgstr "Vilkårlig tekst eller HTML"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:67
+msgid "Text"
+msgstr "Tekst"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:92
+msgid "Log in/out, admin, feed and WordPress links"
+msgstr "Log ind/ud, admin, feed og WordPress-links"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:118
+msgid "A widget to enable people to follow you on Twitter"
+msgstr "En widget, der giver folk mulighed for at følge dig på Twitter"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:121
+msgid "Twitter"
+msgstr "Twitter"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:236
+msgid "your-user-name"
+msgstr "dit-brugernavn"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:237
+msgid "My Tweets"
+msgstr "Mine tweets!"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:238
+msgid "Follow me on Twitter"
+msgstr "Følg mig på Twitter"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:253
+msgid "<p>This widget lets you set up a link to allow people to follow you on Twitter. You can additionally show your latest feeds.</p>"
+msgstr "<p>Denne widget lader dig konfigurere et link, som giver folk mulighed for at følge dig på Twitter. Hvis du vil, kan du også vise dine nyeste feeds.</p>"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:254
+msgid "Recommended settings:"
+msgstr "Anbefalede indstillinger:"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:256
+msgid "If you are placing this widget in the \"Right Header Widgets\":"
+msgstr "Hvis du placerer denne widget i \"Right Header Widgets\":"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:258
+msgid "Don't show outer border"
+msgstr "Vis ikke ydre ramme"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:259
+msgid "Don't show title"
+msgstr "Vis ikke titel"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:260
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:270
+msgid "Show icon"
+msgstr "Vis ikon"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:261
+msgid "Don't show tagline"
+msgstr "Vis ikke tagline (slogan)"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:262
+msgid "Don't show feeds"
+msgstr "Vis ikke feeds"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:266
+msgid "If you are placing this widget in the sidebars or in \"Widget Area below Header\" or \"Widget Area below Footer\":"
+msgstr "Hvis du placerer denne widget i sidepanelerne eller i \"Widget-området under headeren\" eller i \"Widget-området under footeren\":"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:268
+msgid "Show outer border"
+msgstr "Vis ydre ramme"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:269
+msgid "Show title"
+msgstr "Vis titel"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:271
+msgid "Show tagline"
+msgstr "Vis tagline (slogan)"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:272
+msgid "Show feeds"
+msgstr "Vis feeds"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:280
+msgid "User:"
+msgstr "Bruger:"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:282
+msgid "This is the user who will be followed"
+msgstr "Dette er brugeren, som vil blive \"fulgt\""
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:288
+msgid "Show Outer Border"
+msgstr "Vis ydre ramme"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:289
+msgid "Creates a border around the widget"
+msgstr "Opretter en ramme omkring widgetten"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:295
+msgid "Show Title"
+msgstr "Vis titel"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:296
+msgid "Shows the title of the widget"
+msgstr "Vis titlen på widgetten"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:301
+msgid "Show Twitter Icon"
+msgstr "Vis Twitter-ikon"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:302
+msgid "Will show the selected Twitter icon"
+msgstr "Viser den valgte Twitter-ikon"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:307
+msgid "Show a Tagline"
+msgstr "Vis tagline (slogan)"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:308
+msgid "Will show up near the Twitter icon"
+msgstr "Vises nær Twitter-ikonet"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:313
+msgid "Show my Tweets"
+msgstr "Vis mine Tweets"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:314
+msgid "Will show your latest tweets"
+msgstr "Viser dine seneste tweets"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:323
+msgid "Tagline:"
+msgstr "Tagline:"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:330
+msgid "Select your Twitter icon:"
+msgstr "Vælg din Twitter-ikon:"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:341
+msgid "Set the height for the Twitter icon:"
+msgstr "Sæt højden for Twitter-ikonen:"
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:345
+msgid "Recommended sizes: 32px if the widget is being added to the \"Right Header Widgets\" area, whatever you like otherwise. Note that making the image too large will cause loss of picture quality."
+msgstr "Anbefalede størrelser: 32pix hvis widgetten tilføjes til \"Right Header Widgets\"-området; ellers hvad du synes. Bemærk, at billedkvaliteten bliver ringere, hvis du gør billedet for stort."
+
+#: d:\wordpress\themes\translated\suffusion/suffusion-widgets.php:349
+msgid "Number of Tweets to display:"
+msgstr "Antal Tweets, der skal vises:"
+
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:640
+#, php-format
+msgid "Posted by %1$s at %2$s"
+msgstr "Udgivet af %1$s kl. %2$s"
+
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:643
+msgid "Tagged with: "
+msgstr "Tagget med: "
+
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:687
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:739
+#: d:\wordpress\themes\translated\suffusion/functions/filters.php:218
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr "Side %1$s af %2$s"
+
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:700
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:711
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:752
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:763
+msgid "Older Entries"
+msgstr "Ældre indlæg"
+
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:701
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:712
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:753
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:764
+msgid "Newer Entries"
+msgstr "Nyere indlæg"
+
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:793
+msgid "Resume"
+msgstr "Genoptag"
+
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:850
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:867
+msgid "Add comments"
+msgstr "Tilføj Kommentarer"
+
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:853
+msgid "1 Response"
+msgstr "Ét svar"
+
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:856
+#: d:\wordpress\themes\translated\suffusion/functions/actions.php:869
+msgid "Edit"
+msgstr "Redigér"
+
+#: d:\wordpress\themes\translated\suffusion/functions/filters.php:49
+msgid "Pages:"
+msgstr "Sider:"
+
+#: d:\wordpress\themes\translated\suffusion/functions/filters.php:183
+msgid "Older Comments"
+msgstr "Ældre kommentarer"
+
+#: d:\wordpress\themes\translated\suffusion/functions/filters.php:184
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: d:\wordpress\themes\translated\suffusion/functions/filters.php:188
+#, php-format
+msgid "Older %1$s"
+msgstr "Ældre %1$s"
+
+#: d:\wordpress\themes\translated\suffusion/functions/filters.php:189
+#, php-format
+msgid "Newer %1$s"
+msgstr "Nyere %1$s"
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+#~ msgid "Content"
+#~ msgstr "Indhold"
+#~ msgid "Post it"
+#~ msgstr "Udgiv det!"
+#~ msgid "1 Comment"
+#~ msgstr "Én kommentar"
+#~ msgid "Responses"
+#~ msgstr "Kommentarer"
+#~ msgid "&laquo; Older Comments"
+#~ msgstr "&laquo; Ældre kommentarer"
+#~ msgid "Newer Comments &raquo;"
+#~ msgstr "Nyere kommentarer &raquo;"
+

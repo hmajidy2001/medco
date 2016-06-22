@@ -1,0 +1,2 @@
+[12-Oct-2015 06:35:43 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/hamidm2/public_html/MedcoMetrics.com/wp-content/plugins/hello.php on line 60
+[23-Oct-2015 22:26:53 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/hamidm2/public_html/MedcoMetrics.com/wp-content/plugins/hello.php on line 60

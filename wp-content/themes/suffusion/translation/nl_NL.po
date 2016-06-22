@@ -1,0 +1,662 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Suffusion\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Wim Scholtes <wim@iScholtes.nl>\n"
+"Language-Team: Aquoid\n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: suffusion/legacy-comments.php:31
+msgid "% Comments"
+msgstr "% Reacties"
+
+#. Text in function
+#: suffusion/comments.php:35
+#: suffusion/functions/actions.php:908
+msgid "% Responses"
+msgstr "% Reacties"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:95
+#: suffusion/legacy-comments.php:98
+#: suffusion/comments.php:80
+msgid "(required)"
+msgstr "(verplicht)"
+
+#. Text in function
+#: suffusion/functions/actions.php:908
+msgid "1 Response"
+msgstr "1 Reactie"
+
+#. Text in echo
+#: suffusion/comments.php:84
+msgid "<acronym title=\"Uniform Resource Identifier\">URI</acronym>"
+msgstr "<acronym title=\"Uniform Resource Identifier\">URI</acronym>"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "A search form for your blog"
+msgstr "Een zoekformulier voor je blog"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "A widget to enable people to follow you on Twitter"
+msgstr "Een widget om anderen in staat te stellen je op Twitter te volgen"
+
+#. Text in echo
+#: suffusion/functions/actions.php:922
+msgid "Add comments"
+msgstr "Reacties toevoegen"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Arbitrary text or HTML"
+msgstr "Arbitraire tekst of HTML"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/sidebar.php:37
+msgid "Archives"
+msgstr "Archieven"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/sidebar.php:26
+msgid "Categories"
+msgstr "Categoriën"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Comments"
+msgstr "Reacties"
+
+#. Text in echo
+#: suffusion/sidebar.php:67
+msgid "Comments (RSS)"
+msgstr "Reacties (RSS)"
+
+#. Text in echo
+#: suffusion/sidebar-tabs.php:69
+#: suffusion/suffusion-widgets.php:108
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "Reacties <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:68
+msgid "Comments are closed"
+msgstr "Reacties gesloten"
+
+#. Text in function
+#: suffusion/single.php:18
+#: suffusion/functions/actions.php:558
+msgid "Continue reading"
+msgstr "Lees verder"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:289
+msgid "Creates a border around the widget"
+msgstr "Geeft een rand rondom het widget"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 1"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 10"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 2"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 3"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 4"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 5"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 6"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 7"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 8"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 9"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Don't show feeds"
+msgstr "Verberg feeds"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Don't show outer border"
+msgstr "Verberg buitenste rand"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Don't show tagline"
+msgstr "Verberg tag-lijn"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Don't show title"
+msgstr "Verberg titel"
+
+#. Text in echo
+#: suffusion/comments.php:78
+msgid "E-mail"
+msgstr "E-mail"
+
+#. Text in function
+#: suffusion/functions/actions.php:911
+#: suffusion/functions/actions.php:924
+msgid "Edit"
+msgstr "Edit"
+
+#. Text in echo
+#: suffusion/functions.php:427
+msgid "Enter the full URL of the featured image that you would like to use, including http://"
+msgstr "Geef de volledige URL van de afbeelding die je wilt gebruiken, inclusief http://"
+
+#. Text in echo
+#: suffusion/functions.php:422
+msgid "Enter the full URL of the thumbnail image that you would like to use, including http://"
+msgstr "Geef de volledige URL van de thumbnail afbeelding die je wilt gebruiken, inclusief http://"
+
+#. Text in echo
+#: suffusion/sidebar.php:66
+msgid "Entries (RSS)"
+msgstr "Berichten (RSS)"
+
+#. Text in echo
+#: suffusion/sidebar-tabs.php:68
+#: suffusion/suffusion-widgets.php:107
+msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "Berichten <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+
+#. Text in echo
+#: suffusion/404.php:15
+msgid "Error 404 - Not Found"
+msgstr "Error 404 - Niet gevonden"
+
+#. Text in echo
+#: suffusion/functions.php:425
+msgid "Featured Image"
+msgstr "Gebruikte afbeelding"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Follow me on Twitter"
+msgstr "Volg me op Twitter"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "If you are placing this widget in the \\\"Right Header Widgets\\\":"
+msgstr "Als je deze widget plaatst in de \\\"Right Header Widgets\\\":"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "If you are placing this widget in the sidebars or in \\\"Widget Area below Header\\\" or \\\"Widget Area below Footer\\\":"
+msgstr "Als je deze widget plaatst in de zijkolom of in \\\"Widget Area below Header\\\" of \\\"Widget Area below Footer\\\":"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:76
+#: suffusion/comments.php:49
+msgid "Leave a Reply"
+msgstr "Geef een reactie"
+
+#. Text in function
+#: suffusion/comments.php:49
+msgid "Leave a Reply to %s"
+msgstr "Geef een reactie op %s"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/sidebar.php:48
+msgid "Links"
+msgstr "Links"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Log in/out, admin, feed and WordPress links"
+msgstr "Log in/uit, admin, feed en WordPress links"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:90
+#: suffusion/comments.php:64
+msgid "Log out"
+msgstr "Log uit"
+
+#. Text in function
+#: suffusion/legacy-comments.php:89
+#: suffusion/comments.php:63
+msgid "Logged in as %s. "
+msgstr "Ingelogd als %s."
+
+#. Text in echo
+#: suffusion/legacy-comments.php:98
+msgid "Mail"
+msgstr "Mail"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/sidebar.php:59
+#: suffusion/suffusion-widgets.php:362
+msgid "Meta"
+msgstr "Meta"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "My Tweets"
+msgstr "Mijn Tweets"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:95
+#: suffusion/comments.php:72
+msgid "Name"
+msgstr "Naam"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Newer %1$s"
+msgstr "Nieuwer %1$s"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Newer Comments"
+msgstr "Nieuwere reacties"
+
+#. Text in function
+#: suffusion/functions/actions.php:926
+#: suffusion/functions/actions.php:814
+msgid "Newer Entries"
+msgstr "Nieuwere berichten"
+
+#. Text in function
+#: suffusion/featured-posts.php:1
+msgid "Next Post"
+msgstr ""
+
+#. Text in function
+#: suffusion/legacy-comments.php:31
+msgid "No Comments"
+msgstr "Geen reacties"
+
+#. Text in function
+#: suffusion/comments.php:35
+#: suffusion/functions/actions.php:908
+msgid "No Responses"
+msgstr "Geen reacties"
+
+#. Text in echo
+#: suffusion/category.php:34
+#: suffusion/index.php:36
+#: suffusion/author.php:34
+msgid "Not Found"
+msgstr "Niet gevonden"
+
+#. Text in echo
+#: suffusion/search.php:35
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:349
+msgid "Number of Tweets to display:"
+msgstr "Aantal te tonen Tweets"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Older %1$s"
+msgstr "Ouder %1$s"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Older Comments"
+msgstr "Oudere reacties"
+
+#. Text in function
+#: suffusion/functions/actions.php:926
+#: suffusion/functions/actions.php:813
+msgid "Older Entries"
+msgstr "Oudere berichten"
+
+#. Text in function
+#: suffusion/legacy-comments.php:31
+msgid "One Comment"
+msgstr "Een reactie"
+
+#. Text in function
+#: suffusion/comments.php:35
+msgid "One Response"
+msgstr "Een reactie"
+
+#. Text in function
+#: suffusion/functions/filters.php:218
+#: suffusion/functions/actions.php:789
+msgid "Page %1$s of %2$s"
+msgstr "Pagina %1$s of %2$s"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Pages"
+msgstr "Pagina's"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#. Text in function
+#: suffusion/featured-posts.php:1
+#: suffusion/functions/actions.php:926
+msgid "Pause"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Pingbacks"
+msgstr "Pingbacks"
+
+#. Text in echo
+#: suffusion/search.php:37
+msgid "Please try another search."
+msgstr "Probeer een andere zoekopdracht"
+
+#. Text in function
+#: suffusion/functions/actions.php:690
+msgid "Posted by %1$s at %2$s"
+msgstr "Geplaatst door %1$s om %2$s"
+
+#. Text in function
+#: suffusion/featured-posts.php:1
+msgid "Previous Post"
+msgstr ""
+
+#. Text in function
+#: suffusion/categories.php:39
+msgid "RSS"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Recent Comments"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Recent Posts"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Recommended settings:"
+msgstr "Aanbevolen instellingen:"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:345
+msgid "Recommended sizes: 32px if the widget is being added to the \\\"Right Header Widgets\\\" area, whatever you like otherwise. Note that making the image too large will cause loss of picture quality."
+msgstr "Aanbevolen grootte: 32px als de widget wordt toegevoegd aan het \\\"Right Header Widgets\\\"  gebied, anders wat je zelf wilt. Merk op dat als je de afbeelding te groot maakt, dit tot kwaliteitsverlies leidt."
+
+#. Text in function
+#: suffusion/functions/actions.php:926
+msgid "Resume"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/searchform.php:11
+#: suffusion/suffusion-widgets.php:362
+msgid "Search"
+msgstr "Zoek"
+
+#. Text in function
+#: suffusion/sidebar-tabs.php:213
+msgid "Select"
+msgstr ""
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:330
+msgid "Select your Twitter icon:"
+msgstr "Selecteer je Twitter icon:"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:341
+msgid "Set the height for the Twitter icon:"
+msgstr "Stel de hoogte in voor het Twitter icon:"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:288
+msgid "Show Outer Border"
+msgstr "Toon buitenste rand"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:295
+msgid "Show Title"
+msgstr "Toon titel"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:301
+msgid "Show Twitter Icon"
+msgstr "Toon Twitter icon"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:307
+msgid "Show a Tagline"
+msgstr "Toon een tag-lijn"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show feeds"
+msgstr "Toon feeds"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show icon"
+msgstr "Toon icon"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:313
+msgid "Show my Tweets"
+msgstr "Toon mijn Tweets"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show outer border"
+msgstr "Toon buitenste rand"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show tagline"
+msgstr "Toon tag-lijn"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show title"
+msgstr "Toon titel"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:296
+msgid "Shows the title of the widget"
+msgstr "Toont de titel van de widget"
+
+#. Text in echo
+#: suffusion/category.php:36
+#: suffusion/index.php:38
+#: suffusion/author.php:36
+msgid "Sorry, but you are looking for something that isn't here"
+msgstr "Sorry, maar je zoekt iets dat er niet is"
+
+#. Text in echo
+#: suffusion/single.php:27
+msgid "Sorry, no posts matched your criteria."
+msgstr "Sorry, geen berichten die aan je criteria voldoen."
+
+#. Text in echo
+#: suffusion/comments.php:112
+msgid "Sorry, the comment form is closed at this time."
+msgstr "Sorry, het reactieformulier is momenteel gesloten."
+
+#. Text in echo
+#: suffusion/404.php:18
+msgid "Sorry, the page that you are looking for does not exist."
+msgstr "Sorry, de pagina die je zoekt bestaat niet."
+
+#. Text in echo
+#: suffusion/legacy-comments.php:110
+#: suffusion/comments.php:101
+msgid "Submit Comment"
+msgstr "Verzend reactie"
+
+#. Text in function
+#: suffusion/sidebar-tabs.php:68
+#: suffusion/suffusion-widgets.php:107
+msgid "Syndicate this site using RSS 2.0"
+msgstr "Syndicate deze site met RSS 2.0"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Tag Cloud"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions/actions.php:693
+msgid "Tagged with: "
+msgstr "Tags: "
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:323
+msgid "Tagline:"
+msgstr "Tag-lijn:"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Text"
+msgstr "Tekst"
+
+#. Text in function
+#: suffusion/sidebar-tabs.php:69
+#: suffusion/suffusion-widgets.php:108
+msgid "The latest comments to all posts in RSS"
+msgstr "De laatste reacties op alle berichten in RSS"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:282
+msgid "This is the user who will be followed"
+msgstr "Dit is de gebruiker die zal worden gevolgd"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:17
+#: suffusion/comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dit bericht is met een wachtwoord beschermd. Geef het wachtwoord om de reacties te bekijken."
+
+#. Text in echo
+#: suffusion/functions.php:420
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:318
+msgid "Title:"
+msgstr "Titel:"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Twitter"
+msgstr "Twitter"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:280
+msgid "User:"
+msgstr "Gebruiker:"
+
+#. Text in echo
+#: suffusion/sidebar.php:65
+msgid "Valid XHTML"
+msgstr "Gedlige XHTML"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:104
+msgid "Website (OpenID supported)"
+msgstr "Website (OpenID ondersteund)"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:302
+msgid "Will show the selected Twitter icon"
+msgstr "Toont het geselecteerde Twitter icon"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:308
+msgid "Will show up near the Twitter icon"
+msgstr "Wordt getoond nabij het Twitter icon"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:314
+msgid "Will show your latest tweets"
+msgstr "Zal je laatste tweets tonen"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:79
+msgid "You must be logged in to post a comment"
+msgstr "Je moet ingelogd zijn om een reactie te plaatsen"
+
+#. Text in echo
+#: suffusion/comments.php:52
+msgid "You must be logged in to post a comment."
+msgstr "Je moet ingelogd zijn om een reactie te plaatsen"
+
+#. Text in echo
+#: suffusion/comments.php:91
+msgid "Your Comment"
+msgstr "Je reactie"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:42
+msgid "Your comment is awaiting moderation"
+msgstr "Je reactie is in afwachting van moderatie"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:98
+msgid "will not be published"
+msgstr "wordt niet gepubliceerd"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "your-user-name"
+msgstr "je-gebruikersnaam"
+

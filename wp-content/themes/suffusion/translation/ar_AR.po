@@ -1,0 +1,662 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Suffusion\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-11-25 02:02-0800\n"
+"Last-Translator: www.r-sn.com <web.rsn@gmail.com>\n"
+"Language-Team: Aquoid\n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: suffusion/legacy-comments.php:31
+msgid "% Comments"
+msgstr "التعليقات % "
+
+#. Text in function
+#: suffusion/comments.php:35
+#: suffusion/functions/actions.php:908
+msgid "% Responses"
+msgstr "% رد"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:95
+#: suffusion/legacy-comments.php:98
+#: suffusion/comments.php:80
+msgid "(required)"
+msgstr "مطلوب"
+
+#. Text in function
+#: suffusion/functions/actions.php:908
+msgid "1 Response"
+msgstr "رد واحد"
+
+#. Text in echo
+#: suffusion/comments.php:84
+msgid "<acronym title=\"Uniform Resource Identifier\">URI</acronym>"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "A search form for your blog"
+msgstr "نموذج البحث في المدونة"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "A widget to enable people to follow you on Twitter"
+msgstr "القائمة : تمكين الزوار لتتبعك إلى التويتر .."
+
+#. Text in echo
+#: suffusion/functions/actions.php:922
+msgid "Add comments"
+msgstr "إضافة تعليق"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Arbitrary text or HTML"
+msgstr "التحكم : نص أو هتمل"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/sidebar.php:37
+msgid "Archives"
+msgstr "الأرشيف"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/sidebar.php:26
+msgid "Categories"
+msgstr "تصنيفات"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Comments"
+msgstr "تعليقات"
+
+#. Text in echo
+#: suffusion/sidebar.php:67
+msgid "Comments (RSS)"
+msgstr "خلاصات التعليقات"
+
+#. Text in echo
+#: suffusion/sidebar-tabs.php:69
+#: suffusion/suffusion-widgets.php:108
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#. Text in echo
+#: suffusion/legacy-comments.php:68
+msgid "Comments are closed"
+msgstr "التعليقات مغلقة"
+
+#. Text in function
+#: suffusion/single.php:18
+#: suffusion/functions/actions.php:558
+msgid "Continue reading"
+msgstr "إقرأ المزيد .."
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:289
+msgid "Creates a border around the widget"
+msgstr "إنشاء الحدود حول القائمة الجانبية"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 1"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 10"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 2"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 3"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 4"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 5"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 6"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 7"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 8"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 9"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Don't show feeds"
+msgstr "لاتظهر الخلاصات"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Don't show outer border"
+msgstr "لاتظهر الحدود الخارجية"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Don't show tagline"
+msgstr "لاتظهر الوسام"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Don't show title"
+msgstr "لاتظهر العنوان"
+
+#. Text in echo
+#: suffusion/comments.php:78
+msgid "E-mail"
+msgstr "البريد"
+
+#. Text in function
+#: suffusion/functions/actions.php:911
+#: suffusion/functions/actions.php:924
+msgid "Edit"
+msgstr "تعديل"
+
+#. Text in echo
+#: suffusion/functions.php:427
+msgid "Enter the full URL of the featured image that you would like to use, including http://"
+msgstr "أدخل عنوان الصورة المصغرة المميزة التي ترغب في استخدامها ، بما في ذلك http://"
+
+#. Text in echo
+#: suffusion/functions.php:422
+msgid "Enter the full URL of the thumbnail image that you would like to use, including http://"
+msgstr "أدخل عنوان الصورة المصغرة التي ترغب في استخدامها ، بما في ذلك http://"
+
+#. Text in echo
+#: suffusion/sidebar.php:66
+msgid "Entries (RSS)"
+msgstr "خلاصات التدوينات"
+
+#. Text in echo
+#: suffusion/sidebar-tabs.php:68
+#: suffusion/suffusion-widgets.php:107
+msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr ""
+
+#. Text in echo
+#: suffusion/404.php:15
+msgid "Error 404 - Not Found"
+msgstr "خطأ 404 - غير موجود"
+
+#. Text in echo
+#: suffusion/functions.php:425
+msgid "Featured Image"
+msgstr "عرض الصور"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Follow me on Twitter"
+msgstr "تتبعني إلى التويتر"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "If you are placing this widget in the \\\"Right Header Widgets\\\":"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "If you are placing this widget in the sidebars or in \\\"Widget Area below Header\\\" or \\\"Widget Area below Footer\\\":"
+msgstr ""
+
+#. Text in echo
+#: suffusion/legacy-comments.php:76
+#: suffusion/comments.php:49
+msgid "Leave a Reply"
+msgstr "أضف تعليقك"
+
+#. Text in function
+#: suffusion/comments.php:49
+msgid "Leave a Reply to %s"
+msgstr "Leave a Reply to %s"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/sidebar.php:48
+msgid "Links"
+msgstr "روابط"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Log in/out, admin, feed and WordPress links"
+msgstr "تسجيل دخول , خروج , المدير , الخلاصات , الروابط"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:90
+#: suffusion/comments.php:64
+msgid "Log out"
+msgstr "حروج"
+
+#. Text in function
+#: suffusion/legacy-comments.php:89
+#: suffusion/comments.php:63
+msgid "Logged in as %s. "
+msgstr "أنت مسجل باسم  %s"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:98
+msgid "Mail"
+msgstr "البريد"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/sidebar.php:59
+#: suffusion/suffusion-widgets.php:362
+msgid "Meta"
+msgstr "ميتا"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "My Tweets"
+msgstr "تويتري"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:95
+#: suffusion/comments.php:72
+msgid "Name"
+msgstr "الاسم"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Newer %1$s"
+msgstr "أحدث %1$s"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Newer Comments"
+msgstr "أحدث التعليقات"
+
+#. Text in function
+#: suffusion/functions/actions.php:926
+#: suffusion/functions/actions.php:814
+msgid "Newer Entries"
+msgstr "أحدث التدوينات"
+
+#. Text in function
+#: suffusion/featured-posts.php:1
+msgid "Next Post"
+msgstr "الموضوع التالي"
+
+#. Text in function
+#: suffusion/legacy-comments.php:31
+msgid "No Comments"
+msgstr "بدون تعليقات"
+
+#. Text in function
+#: suffusion/comments.php:35
+#: suffusion/functions/actions.php:908
+msgid "No Responses"
+msgstr "بدون ردود"
+
+#. Text in echo
+#: suffusion/category.php:34
+#: suffusion/index.php:36
+#: suffusion/author.php:34
+msgid "Not Found"
+msgstr "غير موجود"
+
+#. Text in echo
+#: suffusion/search.php:35
+msgid "Nothing Found"
+msgstr "لايوجد شيء"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:349
+msgid "Number of Tweets to display:"
+msgstr "عدد مواضيع التويتر للعرض :"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Older %1$s"
+msgstr "أقدم %1$s"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Older Comments"
+msgstr "أقدم التعليقات"
+
+#. Text in function
+#: suffusion/functions/actions.php:926
+#: suffusion/functions/actions.php:813
+msgid "Older Entries"
+msgstr "أقدم التدوينات"
+
+#. Text in function
+#: suffusion/legacy-comments.php:31
+msgid "One Comment"
+msgstr "تعليق واحد"
+
+#. Text in function
+#: suffusion/comments.php:35
+msgid "One Response"
+msgstr "رد واحد"
+
+#. Text in function
+#: suffusion/functions/filters.php:218
+#: suffusion/functions/actions.php:789
+msgid "Page %1$s of %2$s"
+msgstr "صفحة %1$s من %2$s"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Pages"
+msgstr "الصفحات"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Pages:"
+msgstr "الصفحات :"
+
+#. Text in function
+#: suffusion/featured-posts.php:1
+#: suffusion/functions/actions.php:926
+msgid "Pause"
+msgstr "إيقاف مؤقت"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Pingbacks"
+msgstr "التعليقات القادمة"
+
+#. Text in echo
+#: suffusion/search.php:37
+msgid "Please try another search."
+msgstr "يرجى المحاولة مرة أخرى"
+
+#. Text in function
+#: suffusion/functions/actions.php:690
+msgid "Posted by %1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: suffusion/featured-posts.php:1
+msgid "Previous Post"
+msgstr "الموضوع السابق"
+
+#. Text in function
+#: suffusion/categories.php:39
+msgid "RSS"
+msgstr "الخلاصات"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Recent Comments"
+msgstr "آخر التعليقات"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Recent Posts"
+msgstr "آخر الموضوعات"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Recommended settings:"
+msgstr "الإعدادات الموصى بها :"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:345
+msgid "Recommended sizes: 32px if the widget is being added to the \\\"Right Header Widgets\\\" area, whatever you like otherwise. Note that making the image too large will cause loss of picture quality."
+msgstr "الأحجام الموصى بها : 32px  .. علما بأن جعل الصورة كبير جدا س يسبب خسارة في جودة الصورة ."
+
+#. Text in function
+#: suffusion/functions/actions.php:926
+msgid "Resume"
+msgstr "المقتطف"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/searchform.php:11
+#: suffusion/suffusion-widgets.php:362
+msgid "Search"
+msgstr "البحث"
+
+#. Text in function
+#: suffusion/sidebar-tabs.php:213
+msgid "Select"
+msgstr ""
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:330
+msgid "Select your Twitter icon:"
+msgstr "تحديد أيقونة التويتر"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:341
+msgid "Set the height for the Twitter icon:"
+msgstr "تعيين الارتفاع لأيقونة التويتر :"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:288
+msgid "Show Outer Border"
+msgstr "إظهار الحدود الخارجية"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:295
+msgid "Show Title"
+msgstr "إظهار العنوان"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:301
+msgid "Show Twitter Icon"
+msgstr "إظهار أيقونة التويتر"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:307
+msgid "Show a Tagline"
+msgstr "إظهار الوصف"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show feeds"
+msgstr "إظهار الخلاصات"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show icon"
+msgstr "إظهار الأيقونة"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:313
+msgid "Show my Tweets"
+msgstr "إظهار التويتر"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show outer border"
+msgstr "إظهار الحدود الخارجية"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show tagline"
+msgstr "إظهار الوصف"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show title"
+msgstr "إظهار العنوان"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:296
+msgid "Shows the title of the widget"
+msgstr "إظهار العنوان في القائمة الجانبية"
+
+#. Text in echo
+#: suffusion/category.php:36
+#: suffusion/index.php:38
+#: suffusion/author.php:36
+msgid "Sorry, but you are looking for something that isn't here"
+msgstr "آسف ..  ولكنك تبحث عن شيء غير موجود"
+
+#. Text in echo
+#: suffusion/single.php:27
+msgid "Sorry, no posts matched your criteria."
+msgstr "آسف .. لا يوجد مواضيع مطابقة للمعايير الخاصة بك."
+
+#. Text in echo
+#: suffusion/comments.php:112
+msgid "Sorry, the comment form is closed at this time."
+msgstr "آسف .. التعليقات مغلقة في الوقت الحالي"
+
+#. Text in echo
+#: suffusion/404.php:18
+msgid "Sorry, the page that you are looking for does not exist."
+msgstr "عذرا ..  الصفحة التي تبحث عنها غير موجودة"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:110
+#: suffusion/comments.php:101
+msgid "Submit Comment"
+msgstr "أرسل التعليق"
+
+#. Text in function
+#: suffusion/sidebar-tabs.php:68
+#: suffusion/suffusion-widgets.php:107
+msgid "Syndicate this site using RSS 2.0"
+msgstr "الموقع يستخدم RSS 2.0"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Tag Cloud"
+msgstr "غيمة الوسام"
+
+#. Text in function
+#: suffusion/functions/actions.php:693
+msgid "Tagged with: "
+msgstr "الأوسمة :"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:323
+msgid "Tagline:"
+msgstr "سطر الوضف :"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Text"
+msgstr "النص"
+
+#. Text in function
+#: suffusion/sidebar-tabs.php:69
+#: suffusion/suffusion-widgets.php:108
+msgid "The latest comments to all posts in RSS"
+msgstr "أحدث التعليقات والتدوينات في الخلاصات"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:282
+msgid "This is the user who will be followed"
+msgstr "هذا المستخدم الذي سيتابع"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:17
+#: suffusion/comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "المحتوى محمي .. يرجى إدخال كلمة المرور لرؤية التعليقات .."
+
+#. Text in echo
+#: suffusion/functions.php:420
+msgid "Thumbnail"
+msgstr "الصور المصغرة"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:318
+msgid "Title:"
+msgstr "العنوان :"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Trackbacks"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Twitter"
+msgstr "التويتر"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:280
+msgid "User:"
+msgstr "الاسم :"
+
+#. Text in echo
+#: suffusion/sidebar.php:65
+msgid "Valid XHTML"
+msgstr ""
+
+#. Text in echo
+#: suffusion/legacy-comments.php:104
+msgid "Website (OpenID supported)"
+msgstr ""
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:302
+msgid "Will show the selected Twitter icon"
+msgstr "سيظهر عند تحديد أيقونة التويتر"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:308
+msgid "Will show up near the Twitter icon"
+msgstr "سيظهر بالقرب من أيقونة التويتر"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:314
+msgid "Will show your latest tweets"
+msgstr "ظهور أحدث مواضيع التويتر"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:79
+msgid "You must be logged in to post a comment"
+msgstr "يجب أن تكون مسجلا"
+
+#. Text in echo
+#: suffusion/comments.php:52
+msgid "You must be logged in to post a comment."
+msgstr "يجب أن تكون مسجلا"
+
+#. Text in echo
+#: suffusion/comments.php:91
+msgid "Your Comment"
+msgstr "تعليقك"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:42
+msgid "Your comment is awaiting moderation"
+msgstr "تعليقك ينتظر الموافقة"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:98
+msgid "will not be published"
+msgstr "لن ينشر"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "your-user-name"
+msgstr "حسابك في التويتر"
+

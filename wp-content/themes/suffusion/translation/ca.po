@@ -1,0 +1,662 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Suffusion\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-11-25 02:03-0800\n"
+"Last-Translator: Sturgelose <erbebo_32hotmail.com>\n"
+"Language-Team: Aquoid\n"
+"MIME-Version: 1.0\n"
+
+#. Text in function
+#: suffusion/legacy-comments.php:31
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: suffusion/comments.php:35
+#: suffusion/functions/actions.php:908
+msgid "% Responses"
+msgstr "% Responses"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:95
+#: suffusion/legacy-comments.php:98
+#: suffusion/comments.php:80
+msgid "(required)"
+msgstr "(required)"
+
+#. Text in function
+#: suffusion/functions/actions.php:908
+msgid "1 Response"
+msgstr "1 Resposta"
+
+#. Text in echo
+#: suffusion/comments.php:84
+msgid "<acronym title=\"Uniform Resource Identifier\">URI</acronym>"
+msgstr "<acronym title=\"Uniform Resource Identifier\">URI</acronym>"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "A search form for your blog"
+msgstr "Un formulari de cerca pel teu blog"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "A widget to enable people to follow you on Twitter"
+msgstr ""
+
+#. Text in echo
+#: suffusion/functions/actions.php:922
+msgid "Add comments"
+msgstr "Afegir comentari"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Arbitrary text or HTML"
+msgstr "Text arbitrari o HTML"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/sidebar.php:37
+msgid "Archives"
+msgstr "Arxius"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/sidebar.php:26
+msgid "Categories"
+msgstr "Categories"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Comments"
+msgstr "Comentaris"
+
+#. Text in echo
+#: suffusion/sidebar.php:67
+msgid "Comments (RSS)"
+msgstr "Comentaris (RSS)"
+
+#. Text in echo
+#: suffusion/sidebar-tabs.php:69
+#: suffusion/suffusion-widgets.php:108
+msgid "Comments <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "Comentaris <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:68
+msgid "Comments are closed"
+msgstr "Els comentaris estan tancats"
+
+#. Text in function
+#: suffusion/single.php:18
+#: suffusion/functions/actions.php:558
+msgid "Continue reading"
+msgstr "Continuar llegint"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:289
+msgid "Creates a border around the widget"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 1"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 10"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 2"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 3"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 4"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 5"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 6"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 7"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 8"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Custom Tab 9"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Don't show feeds"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Don't show outer border"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Don't show tagline"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Don't show title"
+msgstr ""
+
+#. Text in echo
+#: suffusion/comments.php:78
+msgid "E-mail"
+msgstr "E-mail"
+
+#. Text in function
+#: suffusion/functions/actions.php:911
+#: suffusion/functions/actions.php:924
+msgid "Edit"
+msgstr "Editar"
+
+#. Text in echo
+#: suffusion/functions.php:427
+msgid "Enter the full URL of the featured image that you would like to use, including http://"
+msgstr ""
+
+#. Text in echo
+#: suffusion/functions.php:422
+msgid "Enter the full URL of the thumbnail image that you would like to use, including http://"
+msgstr ""
+
+#. Text in echo
+#: suffusion/sidebar.php:66
+msgid "Entries (RSS)"
+msgstr "Entrades (RSS)"
+
+#. Text in echo
+#: suffusion/sidebar-tabs.php:68
+#: suffusion/suffusion-widgets.php:107
+msgid "Entries <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "Entrades <abbr title=\"Really Simple Syndication\">RSS</abbr>"
+
+#. Text in echo
+#: suffusion/404.php:15
+msgid "Error 404 - Not Found"
+msgstr "Error 404 - No Trobat"
+
+#. Text in echo
+#: suffusion/functions.php:425
+msgid "Featured Image"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Follow me on Twitter"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "If you are placing this widget in the \\\"Right Header Widgets\\\":"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "If you are placing this widget in the sidebars or in \\\"Widget Area below Header\\\" or \\\"Widget Area below Footer\\\":"
+msgstr ""
+
+#. Text in echo
+#: suffusion/legacy-comments.php:76
+#: suffusion/comments.php:49
+msgid "Leave a Reply"
+msgstr "Deixar Resposta"
+
+#. Text in function
+#: suffusion/comments.php:49
+msgid "Leave a Reply to %s"
+msgstr "Deixar una Resposta a  %s"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/sidebar.php:48
+msgid "Links"
+msgstr "Links"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Log in/out, admin, feed and WordPress links"
+msgstr "Log in/out, admin, feed and WordPress links"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:90
+#: suffusion/comments.php:64
+msgid "Log out"
+msgstr "Desconnectar"
+
+#. Text in function
+#: suffusion/legacy-comments.php:89
+#: suffusion/comments.php:63
+msgid "Logged in as %s. "
+msgstr "Connectat com %s."
+
+#. Text in echo
+#: suffusion/legacy-comments.php:98
+msgid "Mail"
+msgstr "Correu"
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/sidebar.php:59
+#: suffusion/suffusion-widgets.php:362
+msgid "Meta"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "My Tweets"
+msgstr ""
+
+#. Text in echo
+#: suffusion/legacy-comments.php:95
+#: suffusion/comments.php:72
+msgid "Name"
+msgstr "Nom"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Newer %1$s"
+msgstr "El més nou %1$s"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Newer Comments"
+msgstr "Comentaris més nous"
+
+#. Text in function
+#: suffusion/functions/actions.php:926
+#: suffusion/functions/actions.php:814
+msgid "Newer Entries"
+msgstr "Noves Entrades"
+
+#. Text in function
+#: suffusion/featured-posts.php:1
+msgid "Next Post"
+msgstr ""
+
+#. Text in function
+#: suffusion/legacy-comments.php:31
+msgid "No Comments"
+msgstr "Cap Comentari"
+
+#. Text in function
+#: suffusion/comments.php:35
+#: suffusion/functions/actions.php:908
+msgid "No Responses"
+msgstr "Cap Resposta"
+
+#. Text in echo
+#: suffusion/category.php:34
+#: suffusion/index.php:36
+#: suffusion/author.php:34
+msgid "Not Found"
+msgstr "No Trobat"
+
+#. Text in echo
+#: suffusion/search.php:35
+msgid "Nothing Found"
+msgstr "No s'ha Trobat Res"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:349
+msgid "Number of Tweets to display:"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Older %1$s"
+msgstr "Older %1$s"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#. Text in function
+#: suffusion/functions/actions.php:926
+#: suffusion/functions/actions.php:813
+msgid "Older Entries"
+msgstr "Entrades Antigues"
+
+#. Text in function
+#: suffusion/legacy-comments.php:31
+msgid "One Comment"
+msgstr "Un Comentari"
+
+#. Text in function
+#: suffusion/comments.php:35
+msgid "One Response"
+msgstr "Una Resposta"
+
+#. Text in function
+#: suffusion/functions/filters.php:218
+#: suffusion/functions/actions.php:789
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Pages"
+msgstr "Pàgines"
+
+#. Text in function
+#: suffusion/functions/filters.php:237
+msgid "Pages:"
+msgstr "Pàgines:"
+
+#. Text in function
+#: suffusion/featured-posts.php:1
+#: suffusion/functions/actions.php:926
+msgid "Pause"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Pingbacks"
+msgstr "Pingbacks"
+
+#. Text in echo
+#: suffusion/search.php:37
+msgid "Please try another search."
+msgstr "Siusplau, intenta una altra cerca."
+
+#. Text in function
+#: suffusion/functions/actions.php:690
+msgid "Posted by %1$s at %2$s"
+msgstr "Publicat per %1$s a les %2$s"
+
+#. Text in function
+#: suffusion/featured-posts.php:1
+msgid "Previous Post"
+msgstr ""
+
+#. Text in function
+#: suffusion/categories.php:39
+msgid "RSS"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Recent Comments"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Recent Posts"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Recommended settings:"
+msgstr ""
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:345
+msgid "Recommended sizes: 32px if the widget is being added to the \\\"Right Header Widgets\\\" area, whatever you like otherwise. Note that making the image too large will cause loss of picture quality."
+msgstr ""
+
+#. Text in function
+#: suffusion/functions/actions.php:926
+msgid "Resume"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions.php:441
+#: suffusion/searchform.php:11
+#: suffusion/suffusion-widgets.php:362
+msgid "Search"
+msgstr "Cercar"
+
+#. Text in function
+#: suffusion/sidebar-tabs.php:213
+msgid "Select"
+msgstr ""
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:330
+msgid "Select your Twitter icon:"
+msgstr ""
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:341
+msgid "Set the height for the Twitter icon:"
+msgstr ""
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:288
+msgid "Show Outer Border"
+msgstr ""
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:295
+msgid "Show Title"
+msgstr ""
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:301
+msgid "Show Twitter Icon"
+msgstr ""
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:307
+msgid "Show a Tagline"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show feeds"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show icon"
+msgstr ""
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:313
+msgid "Show my Tweets"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show outer border"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show tagline"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:252
+msgid "Show title"
+msgstr ""
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:296
+msgid "Shows the title of the widget"
+msgstr ""
+
+#. Text in echo
+#: suffusion/category.php:36
+#: suffusion/index.php:38
+#: suffusion/author.php:36
+msgid "Sorry, but you are looking for something that isn't here"
+msgstr "Perdona, per estas buscant una cosa que no està aquí"
+
+#. Text in echo
+#: suffusion/single.php:27
+msgid "Sorry, no posts matched your criteria."
+msgstr "Perdona, no hi ha cap publicació que concordi amb el teu criteri."
+
+#. Text in echo
+#: suffusion/comments.php:112
+msgid "Sorry, the comment form is closed at this time."
+msgstr "Perdona, ara mateix el comentari está tancat"
+
+#. Text in echo
+#: suffusion/404.php:18
+msgid "Sorry, the page that you are looking for does not exist."
+msgstr "Perdona, la pàgina que estàs buscant no existeix"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:110
+#: suffusion/comments.php:101
+msgid "Submit Comment"
+msgstr "Aplicar Comentari"
+
+#. Text in function
+#: suffusion/sidebar-tabs.php:68
+#: suffusion/suffusion-widgets.php:107
+msgid "Syndicate this site using RSS 2.0"
+msgstr "Promocionar aquest site utilitzant RSS 2.0"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Tag Cloud"
+msgstr ""
+
+#. Text in function
+#: suffusion/functions/actions.php:693
+msgid "Tagged with: "
+msgstr "Etiquetat amb:"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:323
+msgid "Tagline:"
+msgstr ""
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Text"
+msgstr "Text"
+
+#. Text in function
+#: suffusion/sidebar-tabs.php:69
+#: suffusion/suffusion-widgets.php:108
+msgid "The latest comments to all posts in RSS"
+msgstr "Els últims comentaris a totes les publicacions amb RSS"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:282
+msgid "This is the user who will be followed"
+msgstr ""
+
+#. Text in echo
+#: suffusion/legacy-comments.php:17
+#: suffusion/comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Aquesta publicació està protegida amb contrasenya. Escriu-la per veure els comentaris"
+
+#. Text in echo
+#: suffusion/functions.php:420
+msgid "Thumbnail"
+msgstr ""
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:318
+msgid "Title:"
+msgstr "Títol:"
+
+#. Text in function
+#: suffusion/functions.php:441
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "Twitter"
+msgstr ""
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:280
+msgid "User:"
+msgstr ""
+
+#. Text in echo
+#: suffusion/sidebar.php:65
+msgid "Valid XHTML"
+msgstr "Validar XHTML"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:104
+msgid "Website (OpenID supported)"
+msgstr "Website (OpenID supported)"
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:302
+msgid "Will show the selected Twitter icon"
+msgstr ""
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:308
+msgid "Will show up near the Twitter icon"
+msgstr ""
+
+#. Text in echo
+#: suffusion/suffusion-widgets.php:314
+msgid "Will show your latest tweets"
+msgstr ""
+
+#. Text in echo
+#: suffusion/legacy-comments.php:79
+msgid "You must be logged in to post a comment"
+msgstr "Has d'estar registrat per publicar un comentari."
+
+#. Text in echo
+#: suffusion/comments.php:52
+msgid "You must be logged in to post a comment."
+msgstr "Has d'estar registrat per publicar un comentari."
+
+#. Text in echo
+#: suffusion/comments.php:91
+msgid "Your Comment"
+msgstr "El Teu Comentari"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:42
+msgid "Your comment is awaiting moderation"
+msgstr "El teu comentari cal ser revisat per l'administració"
+
+#. Text in echo
+#: suffusion/legacy-comments.php:98
+msgid "will not be published"
+msgstr "no serà publicat"
+
+#. Text in function
+#: suffusion/suffusion-widgets.php:362
+msgid "your-user-name"
+msgstr ""
+

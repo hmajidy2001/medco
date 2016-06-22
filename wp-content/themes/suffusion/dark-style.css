@@ -1,0 +1,455 @@
+body {/* Default styling for everything that is un-styled and doesn't inherit*/
+/*	color:#efefef;*/
+	color:#dedede;
+}
+
+blockquote{
+	background: #222;
+	border: 1px solid #555;
+}
+
+code, pre {
+	background-color: #222222;
+}
+pre {
+	border: 1px solid #555;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+	color: #eee;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+	color: #eee;
+}
+
+#wrapper {
+	border: 1px solid #555;
+	background-color: #222;
+}
+
+div.suf-widget {
+	background: #000;
+	border: 1px solid #555;
+}
+
+.dbx-handle {
+	border-bottom: 1px dotted #555;
+}
+
+h1.blogtitle a {
+	color: #ccc;
+}
+
+/* search form */
+.searchform .searchfield{
+	background: #444;
+}
+
+#nav {
+	border-bottom: 1px solid #555;
+}
+
+#nav ul li{
+	border: 1px solid #555;
+}
+
+#nav ul li a{
+	color: #eee;
+	background: #000;
+
+}
+
+#nav ul ul li {
+	border: 1px solid #555;
+}
+
+/* style the links for the top level */
+#nav a, 
+#nav a:visited {
+	color: #eee;
+}
+
+/* style the second level background */
+#nav ul ul a.drop, 
+#nav ul ul a.drop:visited {
+	background: #000;
+}
+
+#nav ul ul li a,
+#nav ul ul li a:visited {
+	color: #eee;
+}
+
+/* style the second level links */
+#nav ul ul a, 
+#nav ul ul a:visited {
+	background: #000;
+	color:#eee; 
+}
+
+#nav-cat ul li{
+	border-bottom: 1px solid #555;
+}
+
+#nav-cat ul li a{
+	color: #eee;
+/*	background: #000;*/
+}
+
+/* sub menu */
+#subnav {
+	background: #111;
+	border: 1px solid #555;
+}
+
+#subnav li {
+	border-right: 1px solid #666;
+}
+
+#subnav li a, 
+#subnav li a:visited, 
+#subnav .page_item {
+	text-decoration: none;
+	color: #666;
+}
+
+#subnav .current_page_item,
+#subnav .current_page_parent {
+	background: #444;
+}
+
+/* Third level */
+#l3nav, #l4nav, #l5nav, #l6nav, #l7nav, #l8nav {
+	background: #222;
+	border: 1px solid #555;
+	margin-top: 0px;
+}
+
+#l3nav .current_page_item, #l3nav .current_page_parent,
+#l4nav .current_page_item, #l4nav .current_page_parent, 
+#l5nav .current_page_item, #l5nav .current_page_parent,
+#l6nav .current_page_item, #l6nav .current_page_parent,
+#l7nav .current_page_item, #l7nav .current_page_parent,
+#l8nav .current_page_item, #l8nav .current_page_parent {
+	background: #444;
+	border-left: 1px solid #555;
+}
+
+#l3nav li,
+#l4nav li, 
+#l5nav li, 
+#l6nav li, 
+#l7nav li, 
+#l8nav li {
+	border-right: 1px solid #666;
+}
+
+.post {
+	background: #000;
+	border: 1px solid #555;
+}
+.postdata {
+	color: #999999;
+}
+.postdata a, .postdata a:visited {
+	color: #999999;
+}
+
+/* post title */
+h2.posttitle,
+h2.posttitle a, 
+h2.posttitle a:visited  {
+	color: #fff;
+}
+
+h2.posttitle {
+	border-bottom: dotted 1px #555;
+}
+
+.author {
+	color: #aaa;
+}
+
+.tags {
+	color: #aaa;
+}
+
+.tags a {
+	font-weight: bold;
+	color: #999;
+}
+
+div.page-links span {
+	border-color: #222222;
+}
+
+/* next & previous page navigation */
+.page-nav {
+	background-color: #000;
+	border: 1px solid #555;
+}
+
+.page-nav a, .page-nav a:visited {
+	color: #fff;
+}
+
+.suf-page-nav a,
+.suf-page-nav a:visited,
+.suf-page-nav span {
+	border-color: #222222;
+}
+
+.page-nav .suf-page-nav a.page-numbers:hover,
+div.navigation .suf-page-nav a.page-numbers:hover {
+	color: #ffffff;
+}
+
+/* next & previous post navigation */
+.post-nav {
+	background-color: #000;
+	border: 1px solid #555;
+}
+.post-nav a, .post-nav a:visited {
+	color: #999999;
+	text-decoration: none;
+}
+
+.post-nav .previous a {
+	background: url(images/older-post.png) no-repeat left center;
+}
+
+.post-nav .next a {
+	background: url(images/newer-post.png) no-repeat right center;
+}
+
+/* commentform */
+#commentform label {
+	color:#ffffff;
+	border: solid 1px #222;
+}
+#commentform small {
+	color: #999999;
+}
+
+#commentform textarea {
+	border: solid 1px #555;
+	background: #333;
+}
+
+#commentform textarea:focus, #commentform input[type="text"]:focus {
+	border: solid 1px #999;
+}
+
+.commentlist small a, .commentlist small a:visited {
+	color: #999999;
+}
+
+a.comment-reply-link {
+	border: solid 1px #222222;
+}
+
+a.comment-response-types, span.comment-response-types {
+	border: solid 1px #222222;
+}
+
+/* Comments  */
+h3#comments,
+h3.comments {
+	/*background: #333 url(images/icons/comments.png) no-repeat 7px center;*/
+	background-color: #333;
+}
+
+h3#respond,
+h3.respond {
+/*	background: #333 url(images/icons/comment_edit.png) no-repeat 7px center;*/
+	background-color: #333;
+}
+
+.commentlist li{
+	padding: 5px 10px;
+/*	list-style-type: none;
+	border: dotted 1px #999;*/
+	background-color: #080808;
+	margin-bottom: 5px;
+}
+
+.commentlist .alt{
+	background-color: #333;
+}
+
+#cred {
+	border-top: 1px solid #555;
+}
+
+#cred a {
+	color: #999;
+}
+
+/* commentform */
+label {
+	color:#666;
+	font-size: 100%;
+}
+small {
+	color: #555;
+}
+
+input{
+	background: #333;
+	color: #999;
+	border: solid 1px #555;
+}
+	
+textarea {
+	color: #999;
+	border: solid 1px #555;
+}
+
+textarea:focus, input[type="text"]:focus, input[type="password"]:focus, #postbox textarea:focus {
+	border: solid 1px #666;
+}
+	
+/* sidebar */
+#sidebar,
+#sidebar-2 {
+	margin-top: 15px;
+	width: 260px;
+	color: #666666;
+	line-height: 160%;
+}
+
+/* sidebar */
+.suf-widget h3,
+.suf-widget h3:hover,
+.suf-widget h3 a, 
+.suf-widget h3 a:visited {
+	color: #999;
+}
+
+div.tab-box div.sidebar-tab-content a:hover,
+div.tab-box div.sidebar-tab-content a:active,
+div.suf-widget a:hover,
+div.suf-widget a:active,
+div#sidebar a:hover, 
+div#sidebar-2 a:hover, 
+div#sidebar a:active, 
+div#sidebar-2 a:active {
+	text-decoration: underline;
+}
+
+.tab-box div.sidebar-tab-content a,
+.tab-box div.sidebar-tab-content a:visited,
+.suf-widget a,
+#sidebar a, 
+#sidebar-2 a, 
+.suf-widget a:visited,
+#sidebar a:visited,
+#sidebar-2 a:visited {
+	color: #999;
+	text-decoration:none;
+}
+
+.wp-caption {
+	background: #000000;
+	text-align: center;
+	padding: 4px;
+	margin-bottom: 1em;
+}
+
+#postbox {
+	background: #000;
+	border: 1px solid #555;
+	color: #666666;
+}
+
+#postbox textarea {
+	border: solid 1px #555;
+	background: #333;
+}
+
+.author-profile,
+.category-info {
+	border: solid 1px #555;
+	background: #000;
+}
+
+/* Settings for Featured Posts */
+#featured-posts {
+	border-color: #555555;
+	background-color: #000000;
+}
+
+#sliderIndex a,
+#sliderIndex a:hover,
+#sliderIndex a:visited {
+	border-color: #222222;
+}
+
+/* These settings are for common plugins */
+.wp-pagenavi a,
+.wp-pagenavi a:visited,
+.wp-pagenavi span {
+	border-color: #222222;
+}
+
+/* Tabbed Sidebar */
+.tab-box ul.sidebar-tabs li a {
+	background-color: #000;
+	border: 1px solid #555;
+/*	border-bottom: none;*/
+	color: #fff;
+}
+
+.tab-box div.sidebar-tab-content {
+	background: #000;
+	border: 1px solid #555;
+}
+
+/* Magazine */
+.suf-mag-headlines,
+.suf-mag-excerpts td,
+.suf-mag-categories td {
+	background: #000;
+	border: 1px solid #555;
+}
+
+.suf-mag-headline-block li.suf-mag-headline a {
+	color: #fff;
+}
+
+h2.suf-mag-excerpt-title {
+	border-top: 1px dotted #555;
+	border-bottom: 1px dotted #555;
+}
+
+h2.suf-mag-excerpt-title a,
+h2.suf-mag-excerpt-title a:hover, 
+h2.suf-mag-excerpt-title a:visited, 
+h2.suf-mag-excerpt-title a:active {
+	color: #ddd;
+}
+
+h2.suf-mag-headlines-title,
+.suf-mag-excerpts th,
+.suf-mag-categories th {
+	border-color: #555;
+	background-color: #000;
+	color: #ddd;
+}
+
+.suf-mag-category li.suf-mag-catblock-post a {
+	color: #eee;
+}
+
+.suf-mag-category li.suf-mag-catblock-post {
+	border-bottom: 1px dotted #222;
+/*	background-image: url(images/arrow-bullet-white.png);*/
+}
+
+.suf-mag-category li.suf-mag-catblock-post:hover {
+	border: 1px solid #555;
+}
+
+

@@ -1,0 +1,24 @@
+/**
+ * This file has styles for different plugins supported by Suffusion
+ */
+
+.wp-pagenavi {
+	text-align: center;
+	margin: 5px 0px;
+}
+
+.wp-pagenavi a,
+.wp-pagenavi span {
+	padding: 2px 5px 2px 5px;
+	border: 1px solid;
+	margin: 3px;
+}
+
+.wp-pagenavi span.pages {
+	padding: 2px 8px;
+}
+
+.wp-pagenavi span.extend {
+	border: none;
+}
+
